@@ -24,7 +24,7 @@
 
 <br>
 
-![Published](https://img.shields.io/badge/PUBLISHED-B45309?style=flat-square) &nbsp; **[TrafficEye](https://ieeexplore.ieee.org/) — Intelligent Traffic Optimization Using Deep Learning**
+![Published](https://img.shields.io/badge/PUBLISHED-7C3AED?style=flat-square) &nbsp; **[TrafficEye](https://ieeexplore.ieee.org/) — Intelligent Traffic Optimization Using Deep Learning**
 <br>
 <sub>&nbsp;&nbsp;&nbsp;&nbsp; YOLOv5s · IITM-HeTra dataset &nbsp;—&nbsp; *IEEE Xplore, AIMV 2025*</sub>
 
@@ -60,7 +60,7 @@
 
 ### DevOps & Backend Developer Intern
 
-**Institute for Plasma Research (IPR), Gandhinagar** &nbsp; ![Dec 2025 – Apr 2026](https://img.shields.io/badge/Dec%202025%20%E2%80%93%20Apr%202026-B45309?style=flat-square)
+**Institute for Plasma Research (IPR), Gandhinagar** &nbsp; ![Dec 2025 – Apr 2026](https://img.shields.io/badge/Dec%202025%20%E2%80%93%20Apr%202026-7C3AED?style=flat-square)
 
 <sub>A Government of India autonomous research institute under the Department of Atomic Energy.</sub>
 
@@ -98,11 +98,13 @@ Selected systems shipped end-to-end:
 
 ## Stack
 
-<sub>
-<b>AI / ML</b> &nbsp; PyTorch · TensorFlow · OpenCV · scikit-learn · YOLO · Vision Transformers<br><br>
-<b>Web</b> &nbsp; FastAPI · Node · Express · React · React Native · TypeScript · Tailwind<br><br>
-<b>Infra</b> &nbsp; Docker · Linux · Git · MySQL · PostgreSQL · MongoDB · Redis
-</sub>
+| | |
+|:--|:--|
+| **Languages** | Python&nbsp; ·&nbsp; TypeScript&nbsp; ·&nbsp; JavaScript&nbsp; ·&nbsp; C++&nbsp; ·&nbsp; Java&nbsp; ·&nbsp; SQL&nbsp; ·&nbsp; PHP |
+| **AI / ML** | PyTorch&nbsp; ·&nbsp; TensorFlow&nbsp; ·&nbsp; Keras&nbsp; ·&nbsp; OpenCV&nbsp; ·&nbsp; scikit-learn&nbsp; ·&nbsp; YOLO&nbsp; ·&nbsp; Vision Transformers |
+| **Backend** | FastAPI&nbsp; ·&nbsp; Node.js&nbsp; ·&nbsp; Express&nbsp; ·&nbsp; Django&nbsp; ·&nbsp; Flask&nbsp; ·&nbsp; Laravel&nbsp; ·&nbsp; REST |
+| **Frontend** | React&nbsp; ·&nbsp; React Native&nbsp; ·&nbsp; Vite&nbsp; ·&nbsp; Tailwind CSS |
+| **Infra & Data** | Docker&nbsp; ·&nbsp; Linux&nbsp; ·&nbsp; Git&nbsp; ·&nbsp; CI/CD&nbsp; ·&nbsp; MySQL&nbsp; ·&nbsp; PostgreSQL&nbsp; ·&nbsp; MongoDB&nbsp; ·&nbsp; Redis |
 
 <br>
 
@@ -112,13 +114,13 @@ Selected systems shipped end-to-end:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prem-raichura&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=00000000&icon_color=B45309&text_color=808080&title_color=B45309"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=prem-raichura&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=00000000&icon_color=7C3AED&text_color=808080&title_color=7C3AED"/>
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-raichura&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=B45309&text_color=808080"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-raichura&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=7C3AED&text_color=808080"/>
 
 <br>
 
-<img width="74%" src="https://github-readme-streak-stats.herokuapp.com/?user=prem-raichura&hide_border=true&background=00000000&stroke=808080&ring=B45309&fire=B45309&currStreakLabel=B45309&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080&dayLabels=808080"/>
+<img width="74%" src="https://github-readme-streak-stats.herokuapp.com/?user=prem-raichura&hide_border=true&background=00000000&stroke=808080&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080&dayLabels=808080"/>
 
 </div>
 
