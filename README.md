@@ -56,15 +56,31 @@
 
 ---
 
+## Experience
+
+### DevOps & Backend Developer Intern
+
+**Institute for Plasma Research (IPR), Gandhinagar** &nbsp; ![Dec 2025 – Apr 2026](https://img.shields.io/badge/Dec%202025%20%E2%80%93%20Apr%202026-B45309?style=flat-square)
+
+<sub>A Government of India autonomous research institute under the Department of Atomic Energy.</sub>
+
+- Benchmarked **ERPNext vs. Odoo vs. Dolibarr** across architecture, scalability, modules & integration to select the optimal enterprise ERP.
+- **Deployed and containerized ERPNext** on Ubuntu with **Docker + MariaDB** — portable, scalable, reproducible system configuration.
+- Built **HRMS, attendance tracking, shift management, automated email notifications & role-based access control (RBAC)** tailored to org needs.
+- Engineered **real-time attendance dashboards** — employee check-in/out, shift-assignment workflows and monitoring analytics.
+- Resolved **Docker networking & MariaDB permission** issues, improving deployment reliability and maintainability.
+
+<br>
+
+---
+
 ## Engineering
 
-Beyond research I design and ship production systems end-to-end. Selected work:
+Selected systems shipped end-to-end:
 
 - **Vehicle Density & Detection** — real-time traffic monitor, YOLOv5su on IITM-HeTra · **71% accuracy at 1.4 ms** inference &nbsp;·&nbsp; [repo](https://github.com/prem-raichura/Vehicle-Density-and-Detection-App)
 - **Prompt Injection Prevention** — hybrid rule + Vision Transformer AI-safety framework · **98.32% accuracy**
 - **PortOS** — production portfolio platform · Docker · Prisma · Redis · BullMQ · JWT &nbsp;·&nbsp; [repo](https://github.com/prem-raichura/Portfolio.admin)
-
-<sub>**DevOps & Backend Intern, Institute for Plasma Research (IPR)** — containerized ERPNext on Docker + MariaDB; built HRMS, attendance, shift & RBAC modules with real-time dashboards.</sub>
 
 <br>
 
@@ -92,11 +108,25 @@ Beyond research I design and ship production systems end-to-end. Selected work:
 
 ---
 
+## Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prem-raichura&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&icon_color=B45309&text_color=808080&title_color=808080" width="54%"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=prem-raichura&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=00000000&icon_color=B45309&text_color=808080&title_color=B45309"/>
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-raichura&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=B45309&text_color=808080"/>
 
-<br><br>
+<br>
+
+<img width="74%" src="https://github-readme-streak-stats.herokuapp.com/?user=prem-raichura&hide_border=true&background=00000000&stroke=808080&ring=B45309&fire=B45309&currStreakLabel=B45309&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080&dayLabels=808080"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
 
 <sub>Open to research collaborations and full-stack / ML engineering roles. &nbsp;·&nbsp; [premraichura7@gmail.com](mailto:premraichura7@gmail.com)</sub>
 
