@@ -24,7 +24,7 @@
 
 <br>
 
-![Published](https://img.shields.io/badge/PUBLISHED-7C3AED?style=flat-square) &nbsp; **[TrafficEye](https://ieeexplore.ieee.org/) — Intelligent Traffic Optimization Using Deep Learning**
+![Published](https://img.shields.io/badge/PUBLISHED-B45309?style=flat-square) &nbsp; **[TrafficEye](https://ieeexplore.ieee.org/) — Intelligent Traffic Optimization Using Deep Learning**
 <br>
 <sub>&nbsp;&nbsp;&nbsp;&nbsp; YOLOv5s · IITM-HeTra dataset &nbsp;—&nbsp; *IEEE Xplore, AIMV 2025*</sub>
 
@@ -60,7 +60,7 @@
 
 ### DevOps & Backend Developer Intern
 
-**Institute for Plasma Research (IPR), Gandhinagar** &nbsp; ![Dec 2025 – Apr 2026](https://img.shields.io/badge/Dec%202025%20%E2%80%93%20Apr%202026-7C3AED?style=flat-square)
+**Institute for Plasma Research (IPR), Gandhinagar** &nbsp; ![Dec 2025 – Apr 2026](https://img.shields.io/badge/Dec%202025%20%E2%80%93%20Apr%202026-B45309?style=flat-square)
 
 <sub>A Government of India autonomous research institute under the Department of Atomic Energy.</sub>
 
@@ -100,11 +100,11 @@ Selected systems shipped end-to-end:
 
 | | |
 |:--|:--|
-| **Languages** | Python&nbsp; ·&nbsp; TypeScript&nbsp; ·&nbsp; JavaScript&nbsp; ·&nbsp; C++&nbsp; ·&nbsp; Java&nbsp; ·&nbsp; SQL&nbsp; ·&nbsp; PHP |
-| **AI / ML** | PyTorch&nbsp; ·&nbsp; TensorFlow&nbsp; ·&nbsp; Keras&nbsp; ·&nbsp; OpenCV&nbsp; ·&nbsp; scikit-learn&nbsp; ·&nbsp; YOLO&nbsp; ·&nbsp; Vision Transformers |
-| **Backend** | FastAPI&nbsp; ·&nbsp; Node.js&nbsp; ·&nbsp; Express&nbsp; ·&nbsp; Django&nbsp; ·&nbsp; Flask&nbsp; ·&nbsp; Laravel&nbsp; ·&nbsp; REST |
-| **Frontend** | React&nbsp; ·&nbsp; React Native&nbsp; ·&nbsp; Vite&nbsp; ·&nbsp; Tailwind CSS |
-| **Infra & Data** | Docker&nbsp; ·&nbsp; Linux&nbsp; ·&nbsp; Git&nbsp; ·&nbsp; CI/CD&nbsp; ·&nbsp; MySQL&nbsp; ·&nbsp; PostgreSQL&nbsp; ·&nbsp; MongoDB&nbsp; ·&nbsp; Redis |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat) ![ViT](https://img.shields.io/badge/Vision_Transformers-8A2BE2?style=flat) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
+| **Infra & Data** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
 
 <br>
 
@@ -114,13 +114,13 @@ Selected systems shipped end-to-end:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prem-raichura&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=00000000&icon_color=7C3AED&text_color=808080&title_color=7C3AED"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=prem-raichura&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=00000000&icon_color=B45309&text_color=808080&title_color=B45309"/>
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-raichura&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=7C3AED&text_color=808080"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-raichura&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=B45309&text_color=808080"/>
 
 <br>
 
-<img width="74%" src="https://github-readme-streak-stats.herokuapp.com/?user=prem-raichura&hide_border=true&background=00000000&stroke=808080&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080&dayLabels=808080"/>
+<img width="74%" src="https://github-readme-streak-stats.herokuapp.com/?user=prem-raichura&hide_border=true&background=00000000&stroke=808080&ring=B45309&fire=B45309&currStreakLabel=B45309&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080&dayLabels=808080"/>
 
 </div>
 
