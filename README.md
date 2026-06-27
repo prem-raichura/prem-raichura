@@ -114,13 +114,17 @@ Selected systems shipped end-to-end:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prem-raichura&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=00000000&icon_color=B45309&text_color=808080&title_color=B45309"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=prem-raichura&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide_rank=true&bg_color=00000000&icon_color=B45309&text_color=808080&title_color=B45309"/>
 &nbsp;
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-raichura&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=B45309&text_color=808080"/>
 
 <br>
 
 <img width="74%" src="https://github-readme-streak-stats.herokuapp.com/?user=prem-raichura&hide_border=true&background=00000000&stroke=808080&ring=B45309&fire=B45309&currStreakLabel=B45309&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080&dayLabels=808080"/>
+
+<br><br>
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=prem-raichura&custom_title=Contribution%20Activity&bg_color=00000000&color=B45309&line=B45309&point=808080&area=true&area_color=B45309&hide_border=true"/>
 
 </div>
 
@@ -129,6 +133,10 @@ Selected systems shipped end-to-end:
 ---
 
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=prem-raichura&color=B45309&style=flat&label=PROFILE+VIEWS)
+
+<br><br>
 
 <sub>Open to research collaborations and full-stack / ML engineering roles. &nbsp;·&nbsp; [premraichura7@gmail.com](mailto:premraichura7@gmail.com)</sub>
 
