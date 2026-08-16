@@ -24,7 +24,7 @@
 
 <br>
 
-![Published](https://img.shields.io/badge/PUBLISHED-B45309?style=flat-square) &nbsp; **[TrafficEye](https://ieeexplore.ieee.org/) — Intelligent Traffic Optimization Using Deep Learning**
+![Published](https://img.shields.io/badge/PUBLISHED-B45309?style=flat-square) &nbsp; **[TrafficEye](https://ieeexplore.ieee.org/document/11203522) — Intelligent Traffic Optimization Using Deep Learning**
 <br>
 <sub>&nbsp;&nbsp;&nbsp;&nbsp; YOLOv5s · IITM-HeTra dataset &nbsp;—&nbsp; *IEEE Xplore, AIMV 2025*</sub>
 
